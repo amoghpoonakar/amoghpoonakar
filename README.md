@@ -80,9 +80,7 @@ Developing camera-based visualization interfaces inspired by cinematic heads-up 
 ## SYSTEM DASHBOARD
 
 <p align="center">
-
 <img height="170" src="https://streak-stats.demolab.com/?user=amoghpoonakar&theme=tokyonight">
-
 </p>
 
 <p align="center">
