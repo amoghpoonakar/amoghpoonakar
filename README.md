@@ -113,8 +113,6 @@ Developing camera-based visualization interfaces inspired by cinematic heads-up 
 
 [![Twitter](https://img.shields.io/badge/Twitter-amoghpoonakar-0A66C2?style=for-the-badge\&logo=twitter\&logoColor=white)](https://x.com/amoghpoonakar)
 
-[![YouTube](https://img.shields.io/badge/YouTube-GoldShocker-0A66C2?style=for-the-badge\&logo=youtube\&logoColor=white)](https://www.youtube.com/@goldshocker)
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Amogh%20Poonakar-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)]([https://www.linkedin.com/public-profile/settings](https://www.linkedin.com/in/amogh-poonakar/))
 
 ---
