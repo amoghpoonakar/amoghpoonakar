@@ -153,5 +153,3 @@ Developing camera-based visualization interfaces inspired by cinematic heads-up 
 <p align="center">
   <i><b><span style="font-size: 20px;">Built through curiosity, experimentation, and late-night coding.</span></b></i>
 </p>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,100:0f2027&height=80&section=footer" width="100%"/>
