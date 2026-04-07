@@ -61,7 +61,7 @@ Currently a student of AIML at **Sapthagiri NPS University**.
 <tr>
 <td width="50%">
 
-### 🛸 TFILang
+### TFILang
 A Python-inspired programming language experiment exploring alternative syntax and expressive programming structures.
 
 [![Repo](https://img.shields.io/badge/View_Repo-TFILang-00ffff?style=flat-square&logo=github&labelColor=0d1117)](https://github.com/amoghpoonakar/tfilang)
@@ -71,7 +71,7 @@ A Python-inspired programming language experiment exploring alternative syntax a
 </td>
 <td width="50%">
 
-### 📡 HUD Visualization
+### HUD Visualization
 Developing camera-based visualization interfaces inspired by cinematic heads-up display systems.
 
 ![Status](https://img.shields.io/badge/Status-In_Development-FFAF5E?style=flat-square&labelColor=0d1117)
@@ -113,12 +113,6 @@ Developing camera-based visualization interfaces inspired by cinematic heads-up 
 
 <p align="center">
 <img height="170" src="https://streak-stats.demolab.com/?user=amoghpoonakar&theme=tokyonight&hide_border=true&background=0D1117&stroke=00FFFF&ring=FFAF5E&fire=9CFF9C&currStreakLabel=00FFFF">
-</p>
-
-<p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=amoghpoonakar&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FFFF&icon_color=FFAF5E&text_color=9CFF9C">
-&nbsp;
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amoghpoonakar&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FFFF&text_color=9CFF9C">
 </p>
 
 ---
