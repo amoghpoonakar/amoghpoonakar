@@ -126,7 +126,7 @@ Developing camera-based visualization interfaces inspired by cinematic heads-up 
 ![UI Design](https://img.shields.io/badge/UI-Design-ff69b4?style=for-the-badge&logo=figma&logoColor=white&labelColor=0d1117)
 ![Experimental Tech](https://img.shields.io/badge/Experimental-Tech-ff8c00?style=for-the-badge&logo=rocket.chat&logoColor=white&labelColor=0d1117)
 ![Web Development](https://img.shields.io/badge/Web-Development-0ea5e9?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=0d1117)
-![Android Development](https://img.shields.io/badge/Android-Development-3DDC84?style=for-the-badge&logo=android&logoColor=black&labelColor=0d1117)
+![Android Development](https://img.shields.io/badge/Android-Development-3DDC84?style=for-the-badge&logo=android&logoColor=white&labelColor=0d1117)
 
 ---
 
