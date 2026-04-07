@@ -37,7 +37,6 @@ and **HUD visualization interfaces** inspired by cinematic display systems.
 Currently a student of AIML at **Sapthagiri NPS University**.
 
 </td>
-<br>
 <td align="center" width="36%">
 
 ![Status](https://img.shields.io/badge/🟢_STATUS-ONLINE-00ff88?style=for-the-badge&labelColor=0d1117)
