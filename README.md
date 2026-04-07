@@ -97,8 +97,8 @@ Developing camera-based visualization interfaces inspired by cinematic heads-up 
 ### Development
 
 ![Web Development](https://img.shields.io/badge/Web%20Development-8A2BE2?style=for-the-badge&logo=google-chrome&logoColor=white&labelColor=0d1117)
-![Android Development](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=black&labelColor=0d1117)
-![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=black&labelColor=0d1117)
+![Android Development](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white&labelColor=0d1117)
+![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white&labelColor=0d1117)
 
 ### Systems & Tools
 
