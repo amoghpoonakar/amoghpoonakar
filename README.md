@@ -102,7 +102,7 @@ Developing camera-based visualization interfaces inspired by cinematic heads-up 
 
 ### Systems & Tools
 
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black&labelColor=0d1117)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=white&labelColor=0d1117)
 ![UI Design](https://img.shields.io/badge/UI%20Design-FF69B4?style=for-the-badge&logo=figma&logoColor=white&labelColor=0d1117)
 
 ---
