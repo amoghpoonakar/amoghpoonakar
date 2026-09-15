@@ -249,22 +249,43 @@ I'll figure out what it takes to make it work.
 ![C](https://img.shields.io/badge/C-6E6E6E?style=for-the-badge&logo=c&logoColor=white&labelColor=0d1117)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white&labelColor=0d1117)
 ![Java](https://img.shields.io/badge/Java-EA2D2E?style=for-the-badge&logo=openjdk&logoColor=white&labelColor=0d1117)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&labelColor=0d1117)
 
-### Development
+### AI & Machine Learning
 
-![Web Development](https://img.shields.io/badge/Web%20Development-8A2BE2?style=for-the-badge&logo=google-chrome&logoColor=white&labelColor=0d1117)
+![Artificial Intelligence](https://img.shields.io/badge/Artificial_Intelligence-00FFFF?style=for-the-badge&logo=openai&logoColor=white&labelColor=0d1117)
+![Machine Learning](https://img.shields.io/badge/Machine_Learning-9CFF9C?style=for-the-badge&logo=scikitlearn&logoColor=white&labelColor=0d1117)
+![Computer Vision](https://img.shields.io/badge/Computer_Vision-FFAF5E?style=for-the-badge&logo=opencv&logoColor=white&labelColor=0d1117)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white&labelColor=0d1117)
+
+### Application Development
+
 ![Android Development](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white&labelColor=0d1117)
-![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white&labelColor=0d1117)
+![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white&labelColor=0d1117)
+![Web Development](https://img.shields.io/badge/Web_Development-8A2BE2?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=0d1117)
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white&labelColor=0d1117)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white&labelColor=0d1117)
 
-### Systems & Tools
+### Databases & Backend
 
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=white&labelColor=0d1117)
-![UI Design](https://img.shields.io/badge/UI%20Design-FF69B4?style=for-the-badge&logo=figma&logoColor=white&labelColor=0d1117)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white&labelColor=0d1117)
+![Room](https://img.shields.io/badge/Room_Database-3DDC84?style=for-the-badge&logo=android&logoColor=white&labelColor=0d1117)
+![Gson](https://img.shields.io/badge/Gson-4285F4?style=for-the-badge&logo=google&logoColor=white&labelColor=0d1117)
 
----
+### Servers & Systems
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,100:2c5364&height=2" width="100%"/>
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black&labelColor=0d1117)
+![Self Hosted](https://img.shields.io/badge/Self--Hosted-00FFFF?style=for-the-badge&logo=serverfault&logoColor=white&labelColor=0d1117)
+![Home Server](https://img.shields.io/badge/Home_Server-FFAF5E?style=for-the-badge&logo=linux&logoColor=white&labelColor=0d1117)
+![Networking](https://img.shields.io/badge/Networking-9CFF9C?style=for-the-badge&logo=cisco&logoColor=white&labelColor=0d1117)
 
+### Tools & Workflow
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white&labelColor=0d1117)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white&labelColor=0d1117)
+![UI Design](https://img.shields.io/badge/UI_Design-FF69B4?style=for-the-badge&logo=figma&logoColor=white&labelColor=0d1117)
+![DaVinci Resolve](https://img.shields.io/badge/DaVinci_Resolve-233A51?style=for-the-badge&logo=davinciresolve&logoColor=white&labelColor=0d1117)
 ## SYSTEM DASHBOARD
 
 <p align="center">
@@ -277,14 +298,109 @@ I'll figure out what it takes to make it work.
 
 ## INTERESTS
 
-![Programming](https://img.shields.io/badge/Programming-Languages-blueviolet?style=for-the-badge&logo=code&logoColor=white&labelColor=0d1117)<br>
-![Artificial Intelligence](https://img.shields.io/badge/Artificial-Intelligence-00ffff?style=for-the-badge&logo=openai&logoColor=white&labelColor=0d1117)<br>
-![Computer Vision](https://img.shields.io/badge/Computer-Vision-9CFF9C?style=for-the-badge&logo=opencv&logoColor=white&labelColor=0d1117)<br>
-![Operating Systems](https://img.shields.io/badge/Operating-Systems-black?style=for-the-badge&logo=linux&logoColor=white&labelColor=0d1117)<br>
-![UI Design](https://img.shields.io/badge/UI-Design-ff69b4?style=for-the-badge&logo=figma&logoColor=white&labelColor=0d1117)<br>
-![Experimental Tech](https://img.shields.io/badge/Experimental-Tech-ff8c00?style=for-the-badge&logo=rocket.chat&logoColor=white&labelColor=0d1117)<br>
-![Web Development](https://img.shields.io/badge/Web-Development-0ea5e9?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=0d1117)<br>
-![Android Development](https://img.shields.io/badge/Android-Development-3DDC84?style=for-the-badge&logo=android&logoColor=white&labelColor=0d1117)
+<table>
+<tr valign="top">
+
+<td width="33%" align="left">
+
+### Artificial Intelligence
+
+Exploring personal AI systems, language models, intelligent assistants, and ways of making software feel more human.
+
+![AI](https://img.shields.io/badge/AI-00FFFF?style=for-the-badge&logo=openai&logoColor=white&labelColor=0d1117)
+
+</td>
+
+<td width="33%" align="left">
+
+### Computer Vision
+
+Building things that let computers see, track, interpret, and interact with the world through cameras.
+
+![Vision](https://img.shields.io/badge/Computer_Vision-9CFF9C?style=for-the-badge&logo=opencv&logoColor=white&labelColor=0d1117)
+
+</td>
+
+<td width="33%" align="left">
+
+### Experimental Tech
+
+If an idea sounds interesting enough, I want to know whether I can actually build it.
+
+![Experimental](https://img.shields.io/badge/Experimental_Tech-FFAF5E?style=for-the-badge&logo=rocket.chat&logoColor=white&labelColor=0d1117)
+
+</td>
+
+</tr>
+
+<tr valign="top">
+
+<td width="33%" align="left">
+
+### Programming
+
+Interested in programming languages, software architecture, algorithms, and building systems from the ground up.
+
+![Programming](https://img.shields.io/badge/Programming-Languages-blueviolet?style=for-the-badge&logo=code&logoColor=white&labelColor=0d1117)
+
+</td>
+
+<td width="33%" align="left">
+
+### Self-Hosted Systems
+
+Home servers, local services, networking, automation, and figuring out what can be built without depending entirely on the cloud.
+
+![Self Hosted](https://img.shields.io/badge/Self--Hosted-00FFFF?style=for-the-badge&logo=serverfault&logoColor=white&labelColor=0d1117)
+
+</td>
+
+<td width="33%" align="left">
+
+### UI & Visual Design
+
+Designing interfaces that aren't just functional, but actually feel good to use — from Android apps to cinematic HUDs.
+
+![UI Design](https://img.shields.io/badge/UI_&_Visual_Design-FF69B4?style=for-the-badge&logo=figma&logoColor=white&labelColor=0d1117)
+
+</td>
+
+</tr>
+
+<tr valign="top">
+
+<td width="33%" align="left">
+
+### Android Development
+
+Building complete mobile applications from interface and logic to databases, testing, deployment, and release.
+
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white&labelColor=0d1117)
+
+</td>
+
+<td width="33%" align="left">
+
+### Web Development
+
+Building interactive web experiences, experiments, visual systems, and project showcases.
+
+![Web](https://img.shields.io/badge/Web-Development-0EA5E9?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=0d1117)
+
+</td>
+
+<td width="33%" align="left">
+
+### Systems & Automation
+
+Interested in connecting software, hardware, devices, and services into systems that actually do something useful.
+
+![Systems](https://img.shields.io/badge/Systems-_%26_Automation-FFFFFF?style=for-the-badge&logo=linux&logoColor=white&labelColor=0d1117)
+
+</td>
+
+</tr>
+</table>
 
 ---
 
