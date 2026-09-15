@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=24&duration=1200&pause=1000&color=9CFF9C&center=true&vCenter=true&width=900&lines=Student+%7C+Developer+%7C+Builder;Creator+of+TFILang;Experimental+Technology+Explorer;Tech+Enthusiast">
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=24&duration=1200&pause=1000&color=9CFF9C&center=true&vCenter=true&width=900&lines=Student+%7C+Developer+%7C+Builder;Creator+of+TFILang;Creator+of+BunkVerse;Experimental+Technology+Explorer;Tech+Enthusiast">
 </p>
 
 <p align="center">
@@ -29,10 +29,14 @@
 **`whoami`**
 
 I enjoy building systems that explore unconventional ideas —
-from experimental programming languages to OS-level concepts.
+from experimental programming languages to student-focused applications
+and HUD-inspired visualization systems.
 
 Currently working on **TFILang**, a Python-inspired language experiment,
 and **HUD visualization interfaces** inspired by cinematic display systems.
+
+I also independently built and published **BunkVerse**,
+a smart attendance and bunk management application for students.
 
 Currently a student of AIML at **Sapthagiri NPS University**.
 
@@ -55,29 +59,56 @@ Currently a student of AIML at **Sapthagiri NPS University**.
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,100:2c5364&height=2" width="100%"/>
 
-## CURRENT WORK
+## PROJECTS & CURRENT WORK
 
 <table>
 <tr>
-<td width="50%">
+
+<td width="33%">
+
+### BunkVerse
+
+A smart attendance and bunk management system for students.
+
+Built and independently published as an Android application.
+
+Features include attendance tracking, timetable management,
+reports, and the **Bunk Bank** system.
+
+[![Play Store](https://img.shields.io/badge/Google_Play-Published-00ff88?style=flat-square&logo=google-play&logoColor=white&labelColor=0d1117)](https://play.google.com/store/apps/details?id=com.amoghvp.bunkverse)
+
+[![Repo](https://img.shields.io/badge/Showcase-Repository-00ffff?style=flat-square&logo=github&labelColor=0d1117)](https://github.com/amoghpoonakar/BunkVerse)
+
+![Tech](https://img.shields.io/badge/Java-Android-EA2D2E?style=flat-square&logo=openjdk&logoColor=white&labelColor=0d1117)
+
+</td>
+
+<td width="33%">
 
 ### TFILang
+
 A Python-inspired programming language experiment exploring alternative syntax and expressive programming structures.
 
 [![Repo](https://img.shields.io/badge/View_Repo-TFILang-00ffff?style=flat-square&logo=github&labelColor=0d1117)](https://github.com/amoghpoonakar/tfilang)
+
 [![Extension](https://img.shields.io/badge/VSCode-Extension-9CFF9C?style=flat-square&logo=visualstudiocode&labelColor=0d1117)](https://github.com/amoghpoonakar/tfilang-vscode-extension)
+
 ![Stars](https://img.shields.io/github/stars/amoghpoonakar/tfilang?style=flat-square&color=FFAF5E&labelColor=0d1117)
 
 </td>
-<td width="50%">
+
+<td width="33%">
 
 ### HUD Visualization
+
 Developing camera-based visualization interfaces inspired by cinematic heads-up display systems.
 
 ![Status](https://img.shields.io/badge/Status-In_Development-FFAF5E?style=flat-square&labelColor=0d1117)
+
 ![Type](https://img.shields.io/badge/Type-Vision_Systems-9CFF9C?style=flat-square&labelColor=0d1117)
 
 </td>
+
 </tr>
 </table>
 
