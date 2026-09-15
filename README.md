@@ -63,7 +63,7 @@ Currently a student of **Artificial Intelligence & Machine Learning** at
 ## WHAT I'VE BUILT
 
 <table>
-<tr valign="middle">
+<tr valign="top">
 
 <td width="33%" align="left">
 
@@ -119,7 +119,7 @@ Also includes a VS Code extension.
 
 </tr>
 
-<tr valign="middle">
+<tr valign="top">
 
 <td width="33%" align="left">
 
@@ -165,7 +165,7 @@ A secure Android application for independent asset/gold lenders, combining custo
 
 </tr>
 
-<tr valign="middle">
+<tr valign="top">
 
 <td width="33%" align="left">
 
@@ -209,10 +209,6 @@ There is usually another idea somewhere between "this would be cool" and "let's 
 
 </tr>
 </table>
-
----
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,100:2c5364&height=2" width="100%"/>
 
 ## HOW I BUILD
 
