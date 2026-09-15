@@ -63,6 +63,7 @@ Currently a student of **Artificial Intelligence & Machine Learning** at
 ## WHAT I'VE BUILT
 
 <table>
+
 <tr valign="top">
 
 <td width="33%" align="left">
@@ -85,22 +86,6 @@ Independently built and published on Google Play.
 
 <td width="33%" align="left">
 
-### BOB
-
-**Brilliant Operational Buddy**
-
-A personal AI and home automation system running on a self-hosted home server.
-
-Currently controls the TV through the home network, with a companion Android application.
-
-![Status](https://img.shields.io/badge/Status-In_Development-FFAF5E?style=flat-square&labelColor=0d1117)
-
-![Type](https://img.shields.io/badge/Type-Personal_AI-9CFF9C?style=flat-square&labelColor=0d1117)
-
-</td>
-
-<td width="33%" align="left">
-
 ### TFILang
 
 **Experimental Programming Language**
@@ -114,6 +99,20 @@ Also includes a VS Code extension.
 [![Extension](https://img.shields.io/badge/VSCode-Extension-9CFF9C?style=flat-square&logo=visualstudiocode&labelColor=0d1117)](https://github.com/amoghpoonakar/tfilang-vscode-extension)
 
 ![Stars](https://img.shields.io/github/stars/amoghpoonakar/tfilang?style=flat-square&color=FFAF5E&labelColor=0d1117)
+
+</td>
+
+<td width="33%" align="left">
+
+### LoanZone
+
+**Financial Tracking & Asset Lending**
+
+A secure Android application for independent asset/gold lenders, combining customer records, loan lifecycles, rolling interest calculations, cash reconciliation, and transaction auditing.
+
+![Status](https://img.shields.io/badge/Status-Submitted_for_Google_Play-FFAF5E?style=flat-square&labelColor=0d1117)
+
+![Type](https://img.shields.io/badge/Type-Android-3DDC84?style=flat-square&logo=android&logoColor=white&labelColor=0d1117)
 
 </td>
 
@@ -151,15 +150,17 @@ A browser-based visual experiment built around gesture interaction, featuring a 
 
 <td width="33%" align="left">
 
-### LoanZone
+### BOB
 
-**Financial Tracking & Asset Lending**
+**Brilliant Operational Buddy**
 
-A secure Android application for independent asset/gold lenders, combining customer records, loan lifecycles, rolling interest calculations, cash reconciliation, and transaction auditing.
+A personal AI and home automation system running on a self-hosted home server.
 
-![Status](https://img.shields.io/badge/Status-Submitted_for_Google_Play-FFAF5E?style=flat-square&labelColor=0d1117)
+Currently controls the TV through the home network, with a companion Android application.
 
-![Type](https://img.shields.io/badge/Type-Android-3DDC84?style=flat-square&logo=android&logoColor=white&labelColor=0d1117)
+![Status](https://img.shields.io/badge/Status-In_Development-FFAF5E?style=flat-square&labelColor=0d1117)
+
+![Type](https://img.shields.io/badge/Type-Personal_AI-9CFF9C?style=flat-square&labelColor=0d1117)
 
 </td>
 
@@ -208,8 +209,8 @@ There is usually another idea somewhere between "this would be cool" and "let's 
 </td>
 
 </tr>
-</table>
 
+</table>
 ## HOW I BUILD
 
 ```text
