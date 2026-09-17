@@ -287,11 +287,6 @@ I'll figure out what it takes to make it work.
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white&labelColor=0d1117)
 ![UI Design](https://img.shields.io/badge/UI_Design-FF69B4?style=for-the-badge&logo=figma&logoColor=white&labelColor=0d1117)
 ![DaVinci Resolve](https://img.shields.io/badge/DaVinci_Resolve-233A51?style=for-the-badge&logo=davinciresolve&logoColor=white&labelColor=0d1117)
-## SYSTEM DASHBOARD
-
-<p align="center">
-<img height="170" src="https://streak-stats.demolab.com/?user=amoghpoonakar&theme=tokyonight&hide_border=true&background=0D1117&stroke=00FFFF&ring=FFAF5E&fire=9CFF9C&currStreakLabel=00FFFF">
-</p>
 
 ---
 
