@@ -60,7 +60,7 @@ Currently a student of **Artificial Intelligence & Machine Learning** at
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,100:2c5364&height=2" width="100%"/>
 
-## WHAT I'VE BUILT
+## STUFF THAT I'VE BUILT
 
 <table>
 
@@ -90,7 +90,7 @@ Independently built and published on Google Play.
 
 **Experimental Programming Language**
 
-A Python-inspired programming language exploring alternative syntax and expressive programming structures.
+A Python-inspired programming language exploring a Telugu Film Industry style syntax and expressive programming structures.
 
 Also includes a VS Code extension.
 
@@ -242,7 +242,7 @@ I'll figure out what it takes to make it work.
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,100:2c5364&height=2" width="100%"/>
 
-## TECHNOLOGY STACK
+## TECH STACK
 
 ### Languages
 
@@ -287,10 +287,11 @@ I'll figure out what it takes to make it work.
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white&labelColor=0d1117)
 ![UI Design](https://img.shields.io/badge/UI_Design-FF69B4?style=for-the-badge&logo=figma&logoColor=white&labelColor=0d1117)
 ![DaVinci Resolve](https://img.shields.io/badge/DaVinci_Resolve-233A51?style=for-the-badge&logo=davinciresolve&logoColor=white&labelColor=0d1117)
-## SYSTEM DASHBOARD
+
+## GITHUB STATS
 
 <p align="center">
-<img height="170" src="https://streak-stats.demolab.com/?user=amoghpoonakar&theme=tokyonight&hide_border=true&background=0D1117&stroke=00FFFF&ring=FFAF5E&fire=9CFF9C&currStreakLabel=00FFFF">
+<img height="190" src="https://streak-stats.demolab.com/?user=amoghpoonakar&theme=tokyonight&hide_border=true&background=0D1117&stroke=00FFFF&ring=FFAF5E&fire=9CFF9C&currStreakLabel=00FFFF">
 </p>
 
 ---
